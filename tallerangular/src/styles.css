@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+.navbar {
+    background-color:rgb(3, 63, 82) ;
+  }
+  
+  .nav-item {
+    font-size: 15px;
+  }
+  
+  h1{
+    color: rgb(138, 139, 139);
+  }
+  
+  h6, h4 {
+    color: rgb(3, 63, 82);
+    display: inline;
+  }
+  
+  .valor {
+    margin-top: 100px;
+  }
+  
+  .total {
+    margin-top: 20px;
+    border-top: solid thin rgba(128, 128, 128, 0.424);
+  }
+  
